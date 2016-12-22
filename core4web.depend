@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1482397679 source:/home/oracle/core4web/core4web/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<sys/wait.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
